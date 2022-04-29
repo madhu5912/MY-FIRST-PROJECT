@@ -1,0 +1,15 @@
+table{
+    text-align: center;
+    width: 200px;
+    height: 300px;
+    border: solid;
+    background-color: rgb(155, 219, 227);
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+input{
+    background-color: plum;
+    transition: 1s;
+}
+
